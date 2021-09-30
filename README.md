@@ -1,2 +1,6 @@
 # hello-world
-one repository to rule them all
+
+Hello fellow mortal
+This here is the first github project that I have initiated - expect more to follow
+// chrskott
+
